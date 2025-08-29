@@ -6,7 +6,7 @@ package ud.ejemplofabricaActracta;
 
 /**
  *
- * @author Sebastian
+ * @author Sebastian V.
  */
 public class EjemploFabricaAbstracta {
 
